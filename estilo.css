@@ -1,0 +1,38 @@
+
+body {
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+
+
+a:link, a:visited {
+    margin-top: 10px;
+    background-color: #051a07;
+    color: white;
+    text-decoration: none;
+    padding: 14px 25px;
+    border-radius: 10px;
+    transition-duration: 1.0s;
+
+}
+a:hover{
+    background-color:#380202;
+}
+
+.btn-remover{
+    background-color: crimson;
+}
+
+.btn-comprar{
+    background-color: rgb(20, 220, 37);
+    color: rgb(14, 12, 12);
+}
+
+.btn-carrinho{
+    background-color: rgb(183, 220, 20);
+}
+
+img {
+    float: right;
+}
+

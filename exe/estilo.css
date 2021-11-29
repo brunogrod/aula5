@@ -1,0 +1,16 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+    }
+    
+    
+    a:link, a:visited {
+        margin-top: 10px;
+        background-color: #051a07;
+        color: rgb(243, 250, 250);
+        text-decoration: none;
+        padding: 14px 25px;
+        border-radius: 10px;
+        transition-duration: 1.0s;
+    
+    }
